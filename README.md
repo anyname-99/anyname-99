@@ -1,67 +1,64 @@
-<!-- Replace placeholders in brackets with your details -->
+<h1 align="center">Hi 👋, I'm Victor Asamoah</h1>
+<h3 align="center">Frontend Developer | WordPress Developer</h3>
 
-<div align="center">
-  <h1>Hi, I’m Victor Opoku Asamoah 👋</h1>
-  <p><strong>ALX Front-End Developer Learner</strong> • WordPress Expert • Junior Web Developer</p>
-  <p>Building a portfolio that shows real skills and passion for clean, impactful web products</p>
-
-  <!-- Optional: Place your profile picture below by replacing the URL -->
-  <!-- <img src="YOUR_IMAGE_URL" width="120" style="border-radius:50%;"> -->
-
-  <p>
-    <a href="[YOUR_LINKEDIN]">LinkedIn</a> •
-    <a href="[YOUR_PORTFOLIO]">Portfolio</a> •
-    <a href="mailto:[YOUR_EMAIL]">Email</a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-asamoah-9b5674369/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## About Me
-I am a learner in the ALX Front-End Developer Program and I want to revamp my GitHub profile to make it stand out in my job search.
+### 👨‍💻 About Me
+I’m a passionate Frontend Developer learning and growing each day. I enjoy turning ideas into user-friendly digital experiences.  
+Currently enrolled in the ALX Front-End Developer program, working towards becoming a Full Stack Software Engineer.
 
-I started software engineering because I love creating digital experiences that solve real problems for people and I am inspired by how technology can change lives for the better.
-
-My aim is to become a Full Stack Developer, so I am excited to work on projects that involve interactive web apps, dashboards, WordPress sites and tools that improve communication or access to information.
-
-I enjoy learning new technologies every day, practicing good design and writing code that is clear and easy to maintain.
-
----
-
-## Skills and Tools
-<div>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-</div>
-
-Tools: VS Code, GitHub, Chrome DevTools, Figma (basic)
+- 🌍 Based in Ghana
+- 🚀 Improving my skills in modern web technologies
+- 💡 Interested in websites, web apps, and WordPress development
+- 🎯 Goal: Build meaningful products that help people and communities
 
 ---
 
-## Featured Projects
+### 🛠 Tech Stack
 
-### 1️⃣ AgriHelp Lite
-- **Tech:** HTML, CSS, JavaScript
-- **Role:** UX and UI implementation
-- **About:** A simple tool to help farmers access weather and market tips onlin
+**Languages & Tools:**
 
-## My Roadmap
-- Master JavaScript fundamentals
-- Learn React and use component-based architecture
-- Start backend fundamentals to move toward full stack
-- Contribute to open-source projects that align with my interests
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## Contact
-If you want to collaborate or have any advice that will help me grow, feel free to reach out.
+### 🚀 Projects
 
-- LinkedIn: https://www.linkedin.com/in/victor-asamoah-9b5674369/
-- Email: victorasamoah999@gmail.com
+| Project | Description | Tech |
+|--------|-------------|------|
+| *Soon to be added* | I’m currently building new projects. Stay tuned! | HTML, CSS, JS |
 
-<div align="center"><br>
-  Let’s build something useful together 🚀
-</div>
+> I’ll update this section as I grow and build more awesome work.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anyname-99&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyname-99&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 LinkedIn: [Victor Asamoah](https://www.linkedin.com/in/victor-asamoah-9b5674369/)
+- 📧 Email: *victorasamoah999@gmail.com*
+
+---
+
+⭐ **Thanks for visiting my profile!** Always learning. Always building.
